@@ -19,5 +19,8 @@ def reverse_array(num)
   num.reverse
 end
 
-def kesha_maker
+def kesha_maker(array)
+  array.each do |item|
+    
+    
 
