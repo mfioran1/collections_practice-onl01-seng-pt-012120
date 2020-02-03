@@ -12,5 +12,6 @@ end
 
 def swap_elements(name)
   name[1], name[2] = name[2], name[1]
+  name
 end
 
