@@ -11,4 +11,4 @@ def sort_array_char_count(pet)
 end
 
 def swap_elements(name)
-  
+  name[1],
