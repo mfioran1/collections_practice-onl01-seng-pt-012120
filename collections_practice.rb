@@ -6,4 +6,6 @@ def sort_array_desc(num)
   num.sort_by { |x| -x }
 end
 
-def sort_array_char_count
+def sort_array_char_count(pet)
+  pet.sort_by { |x| x.length }
+end
