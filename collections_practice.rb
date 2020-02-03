@@ -9,3 +9,6 @@ end
 def sort_array_char_count(pet)
   pet.sort_by { |x| x.length }
 end
+
+def swap_elements(name)
+  
